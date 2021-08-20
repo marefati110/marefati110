@@ -10,7 +10,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://marefati110.com/"><img alt="Website" src="https://img.shields.io/badge/website-www.marefati110.com-brightgreen"></a>
+<a href="https://marefati110.com/"><img alt="Website" src="https://img.shields.io/badge/website-marefati110.com-brightgreen"></a>
 <a href="https://www.linkedin.com/in/ali-marefati-749499177"><img alt="Website" src="https://img.shields.io/badge/linkedin-ali%20marefati-blue"></a>
 <a href="https://marefati110@gmail.com"><img alt="Website" src="https://img.shields.io/badge/gmail-marefati110%40gmail.com-orange"></a>
 </p>
