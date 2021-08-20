@@ -3,9 +3,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Kharazmi Tehran.
-- 💼 &nbsp; Working as a DevOps / Cloud Engineer.
-- 🌱 &nbsp; Learning more about Cloud Architecture, BlockChain , Systems Design and Artificial Intelligence.
+- 🎓 &nbsp; Studying Computer Science at University of Kharazmi Tehran.
+- 💼 &nbsp; Working as a Backend developer.
+- 🌱 &nbsp; Learning more about Cloud Architecture, DevOps and Systems Design
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
